@@ -1,0 +1,12 @@
+{
+ "Allow50H": "cda37f064e7851ede953f490095f8b5f@43036fe36ebefd32bb4b69cc16a6d658",
+ "EnableBannerAds": true,
+ "EnableInterstitialAds": true,
+ "EnableOpenAppAds": true,
+ "EnableRewardAdsPro": true,
+ "Messenge": "Xem Quảng Cáo Hỗ Trợ Ứng Dụng ",
+ "TimeLayoutOK": true,
+ "TimeLimit": 864000000,
+ "isLimitedTime": false,
+ "isUnlimitedModeActive": false
+}
