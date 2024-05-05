@@ -1,8 +1,8 @@
 {
 
-"Version": "1.0.0",
+"Version": "1.0.1",
 "Build": 1,
 "Download": "https://download.platformnext.dev",
 "Notes":"- Tối Ưu Hoá Apps , Thêm Tính Năng , Fix Lỗi<br>- Thêm, Sửa Lỗi Máy Chủ<br>- Bugs Fixed<br>- Lưu Ý : Xoá Bản Cũ",
-"isCancel":false
+"isCancel": true
 }
