@@ -4,9 +4,9 @@
  "EnableInterstitialAds": true,
  "EnableOpenAppAds": true,
  "EnableRewardAdsPro": true,
- "Messenge": "Tạm Miễn Phí Sử Dụng Ứng Dụng !!",
+ "Messenge": "Xem Quảng Cáo Để Hỗ Trợ Ứng Dụng !!",
  "TimeLayoutOK": true,
  "TimeLimit": 864000000,
  "isLimitedTime": false,
- "isUnlimitedModeActive": true
+ "isUnlimitedModeActive": false
 }
