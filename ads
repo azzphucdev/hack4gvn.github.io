@@ -1,10 +1,10 @@
 [{
   "package":"com.azzphucmasterdev.nspdev",
-  "ads_banner":"ca-app-pub-5074750635149619/3079370469",
-  "ads_inter":"ca-app-pub-5074750635149619/4990770825",
-  "ads_reward_inter":"ca-app-pub-5074750635149619/3039109499",
-  "ads_reward":"ca-app-pub-5074750635149619/1833839034",
-  "ads_openapp":"ca-app-pub-5074750635149619/6934407882",
+  "ads_banner":"ca-app-pub-4218064725372920/7737141054",
+  "ads_inter":"ca-app-pub-4218064725372920/7517649204",
+  "ads_reward_inter":"ca-app-pub-4218064725372920/3931334397",
+  "ads_reward":"ca-app-pub-4218064725372920/1171732704",
+  "ads_openapp":"ca-app-pub-4218064725372920/8858651038",
   "isBaoTri1":"",
   "isBaoTri2":"",
   "enable_ads": true
