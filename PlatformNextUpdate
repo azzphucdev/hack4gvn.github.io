@@ -1,11 +1,11 @@
 {
 
 "Version": "1.0.0",
-"Build": 9,
+"Build": 10,
 "Experiment": 2,
-"ExperimentNote": "Thử Nghiệm 26/8/2024",
+"ExperimentNote": "Thử Nghiệm 10/9/2024",
 "ExperimentDownload": "https://download.platformnext.dev",
 "Download": "https://download.platformnext.dev",
 "Notes":" - Tối Ưu Hóa Và Sửa Lỗi<br> - Thông Tin Cập Nhật Tại Nhóm Telegram @azzphucpro",
-"isCancel": true
+"isCancel": false
 }
