@@ -16,13 +16,13 @@
  "TextAdminEn": "Watch Ads To Get More Access Time And Support Application ",
  "RewardAds": "1/1/2@1/2/3",
  "RewardAdsNSP": "1/2/3@2/3/5",
- "VersionNSP": 300,
+ "VersionNSP": 302,
  "VersionMess": "5",
  "mDataOnlineXray": "   ‍         ‏ ‏                 ‏     ‎           ‍                   ‎ ‌ ‍   ‌             ‌ ​     ‏   ‍         ‍             ‏       ‌     ‍                   ‍             ‏     ​                 ‌ ‍       ‍                             ‌                 ‍     ‍       ‎       ‌               ‎       ‎       ‍ ‍     ‌       ‍     ‍ ‏     ‌     ‍   ‎         ‍   ‌           ‎                                   ‏                   ‍     ‌                   ‏   ‏       ‌                 ‌     ‏         ‌ ‏       ​     ‏         ‍               ‌                   ​                   ‎       ‏                     ‎ ‎                     ‎                       ‎             ‏       ‌           ‏   ‍      ",
  "Version2": 152,
  "isShowDialog": true,
  "MessUpdate2": "Test",
- "MessUpdateNSP": "Sửa Lỗi Máy Chủ",
+ "MessUpdateNSP": "Sửa Lỗi Và Thêm Máy Chủ",
  "Psiphon3Limit": "com.psiphon3.subscription_playstore",
  "MessUpdateEasyPro": "Test Update"
 }
