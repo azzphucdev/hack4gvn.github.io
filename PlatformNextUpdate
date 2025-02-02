@@ -1,7 +1,9 @@
 {
 "Version": "1.0.0",
 "Build": 13,
-"Experiment": 2,
+"IOS_Build": 14,
+"Android_Build": 14,
+"Experiment": 1,
 "ExperimentNote": "Thử Nghiệm 22/1/2025",
 "ExperimentDownload": "https://download.platformnext.dev",
 "Download": "https://download.platformnext.dev",
