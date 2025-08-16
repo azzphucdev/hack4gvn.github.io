@@ -1,9 +1,9 @@
 {
 "Version": "1.0.0",
-"Build": 20,
-"MacOS_Build": 17,
-"Android_Build": 26,
-"IOS_Build": 19,
+"Build": 80,
+"MacOS_Build": 81,
+"Android_Build": 80,
+"IOS_Build": 81,
 "Experiment": 1,
 "ExperimentNote": "Thử Nghiệm 10/6/2025",
 "ExperimentDownload": "https://download.platformnext.dev",
